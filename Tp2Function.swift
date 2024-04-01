@@ -1,4 +1,4 @@
-//1) Affichage des x premiers nombres pairs ou impairs 
+ //1) Affichage des x premiers nombres pairs ou impairs 
 
 func afficherNombresPairsOuImpairs(_ x: Int, _ pairs: Bool = true) {
     print("Les \(x) premiers nombres \(pairs ? "pairs" : "impairs") sont :")
